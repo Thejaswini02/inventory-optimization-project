@@ -1,6 +1,6 @@
 # inventory-optimization-project
 
-Inventory Optimization Project
+Inventory Optimization Project : 
 Malnad College of Engineering, Hassan
 Apr 2022 - Mar 2023
 
