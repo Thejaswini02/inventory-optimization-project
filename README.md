@@ -6,7 +6,9 @@ Apr 2022 - Mar 2023
 
 Objective: 
 To analyze and optimize the inventory management system of a local retail store to improve stock availability and reduce excess inventory.
-Data Collection: Gathered historical sales data, inventory levels, and ordering patterns from the retail store over a 12-month period.
+
+Data Collection: 
+Gathered historical sales data, inventory levels, and ordering patterns from the retail store over a 12-month period.
 
 Analysis:
 
