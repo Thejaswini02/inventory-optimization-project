@@ -2,7 +2,7 @@
 
 Inventory Optimization Project : 
 Malnad College of Engineering, Hassan
-Apr 2022 - Mar 2023
+Apr 2023 - July 2023
 
 Objective: 
 To analyze and optimize the inventory management system of a local retail store to improve stock availability and reduce excess inventory.
