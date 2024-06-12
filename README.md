@@ -4,11 +4,14 @@ Inventory Optimization Project
 Malnad College of Engineering, Hassan
 Apr 2022 - Mar 2023
 
-Objective: To analyze and optimize the inventory management system of a local retail store to improve stock availability and reduce excess inventory.
+Objective: 
+To analyze and optimize the inventory management system of a local retail store to improve stock availability and reduce excess inventory.
 Data Collection: Gathered historical sales data, inventory levels, and ordering patterns from the retail store over a 12-month period.
 
 Analysis:
-Sales Trends: Utilized advanced Excel functions and statistical tools to analyze sales trends and seasonality.
+
+Sales Trends: 
+Utilized advanced Excel functions and statistical tools to analyze sales trends and seasonality.
 Inventory Levels: Assessed current inventory levels against sales data to identify overstocked and understocked items.
 Forecasting: Implemented forecasting models to predict future demand for different product categories.
 
