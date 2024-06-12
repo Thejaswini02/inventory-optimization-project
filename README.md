@@ -12,8 +12,12 @@ Analysis:
 
 Sales Trends: 
 Utilized advanced Excel functions and statistical tools to analyze sales trends and seasonality.
-Inventory Levels: Assessed current inventory levels against sales data to identify overstocked and understocked items.
-Forecasting: Implemented forecasting models to predict future demand for different product categories.
+
+Inventory Levels: 
+Assessed current inventory levels against sales data to identify overstocked and understocked items.
+
+Forecasting: 
+Implemented forecasting models to predict future demand for different product categories.
 
 Optimization:
 Developed an inventory optimization model that balanced holding costs with stockout risks.
